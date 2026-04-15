@@ -1,5 +1,5 @@
 🧳 About Me:
-I am a passionate **Fullstack Developer** in the making, currently diving deep into the world of **React**.
+I am a passionate **Fullstack Developer** in the making, currently diving deep into the world of **NodeJS**.
 I’ve been coding for about 3 months, and I’m loving the journey of building functional and aesthetic web applications.
 
 
