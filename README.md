@@ -11,3 +11,10 @@ I’ve been coding for about 5 months, and I’m loving the journey of building 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+
+## 🚀 Projects
+
+###  Stock Tracking App
+
+Live Demo: [Open Website](https://stock-tracking-fullstack.vercel.app/login)  
+Source Code: [GitHub Repository](https://github.com/smilelesh35/stock-tracking-fullstack)
