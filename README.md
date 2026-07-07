@@ -1,6 +1,6 @@
 🧳 About Me:
 I am a passionate **Fullstack Developer** in the making, currently diving deep into the world of **React and NodeJs**.
-I’ve been coding for about 5 months, and I’m loving the journey of building functional and aesthetic web applications.
+I’ve been coding for about 6 months, and I’m loving the journey of building functional and aesthetic web applications.
 
 
 ## Hi there 👋
@@ -12,6 +12,7 @@ I’ve been coding for about 5 months, and I’m loving the journey of building 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🚀 Projects
 
